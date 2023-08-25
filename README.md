@@ -6,7 +6,7 @@
   - Java
   - Spring Framework
   - Kubernetes
-- 💞️ I’m looking to collaborate on interesting open source projects that benefit society
+- 💞️ I’m looking forward to collaborations on interesting open source projects that benefit society
 - 📫 How to reach me:
   - email: oshovsky.vlad@yandex.ru
   - telegram: @Hello9536
