@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OshovskiiVladislav/OshovskiiVladislav/personal/gif-hello.gif" width="600" alt="animated hello">
+  <img src="https://github.com/OshovskiiVladislav/OshovskiiVladislav/blob/main/personal/gif-hello.gif" width="600" alt="animated hello">
 <p>
 
 ## About me 👋
