@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/OshovskiiVladislav/OshovskiiVladislav/personal/gif-hello.gif" width="600" alt="animated hello">
+<p>
+
 ## About me 👋
 
 - 👋 Hi, I’m Oshovskii Vladislav
